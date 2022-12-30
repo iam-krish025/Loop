@@ -1,0 +1,63 @@
+#head2 {
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#head1 {
+    margin-left: 50px;
+}
+#b1 {
+    color: #ffffff;
+}
+#b2 {
+    color: #ffffff;
+}
+#b3 {
+    color: #ffffff; 
+}
+#b4 {
+    color: #ffffff;
+}
+#b5 {
+    color: #ffffff;
+}
+#buttonline {
+    margin-left: 600px;
+}
+#img1 {
+    height: 400px;
+    width:600px;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+#create {
+    font-family: "Roboto";
+    margin-top: 120px;
+    margin-left: 60px; 
+    font-size: 30px;
+}
+.content-wrapper.about__content-wrapper {
+    max-width: 1110px;
+  }
+.about__img {
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.about__img {
+    max-width: 731px;
+}
+#p1 {
+    font-family: "Roboto";
+    margin-left: 60px;
+}
+#con3 {
+    margin-top: 60px;
+}
+#ctext {
+    border: 2px solid white;
+    margin-left: 50px;
+}
+#btn1 {
+    margin-left: 900px;
+}
